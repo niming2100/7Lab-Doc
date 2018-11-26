@@ -68,7 +68,7 @@
 - Finally, query b. We should see a value of 210.
 
 
-    peer chaincode query -n mycc -c '{"Args":["query","a"]}' -C myc
+    peer chaincode query -n mycc -c '{"Args":["query","b"]}' -C myc
     
     
     
